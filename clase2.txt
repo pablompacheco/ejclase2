@@ -1,3 +1,7 @@
 Hola como estas?
 muy bien gracias
+<<<<<<< HEAD
 estara por llover?
+=======
+esta anuncado lluvia
+>>>>>>> 09bb146d0d0ac26fa126a3a08d902d9a289b9810
